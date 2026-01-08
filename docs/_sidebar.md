@@ -1,7 +1,4 @@
 - [Lvgl]()  
   - [控件]()  
     - [obj_switch](Lvgl/控件/obj_switch.md)  
-
-
 - [README](README.md)  
-
